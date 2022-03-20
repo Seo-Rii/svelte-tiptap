@@ -1,10 +1,10 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-2151c239.js",
+    "file": "start-7fee8ba1.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js",
+      "_vendor-bd1cd56f.js",
       "_paths-396f020f.js"
     ],
     "dynamicImports": [
@@ -16,12 +16,12 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-d2e79b25.js",
+    "file": "pages/__layout.svelte-12825d3e.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js",
+      "_vendor-bd1cd56f.js",
       "_paths-396f020f.js"
     ],
     "css": [
@@ -29,54 +29,54 @@
     ]
   },
   ".svelte-kit/runtime/components/error.svelte": {
-    "file": "error.svelte-e04f3b79.js",
+    "file": "error.svelte-6d3e855f.js",
     "src": ".svelte-kit/runtime/components/error.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js"
+      "_vendor-bd1cd56f.js"
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-1466dc28.js",
+    "file": "pages/index.svelte-be731c94.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js",
-      "_EditorContent-c25cb646.js"
+      "_vendor-bd1cd56f.js",
+      "_EditorContent-675ab527.js"
     ]
   },
   "src/routes/floating-menu.svelte": {
-    "file": "pages/floating-menu.svelte-0abce9dc.js",
+    "file": "pages/floating-menu.svelte-205544f1.js",
     "src": "src/routes/floating-menu.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js",
-      "_EditorContent-c25cb646.js"
+      "_vendor-bd1cd56f.js",
+      "_EditorContent-675ab527.js"
     ]
   },
   "src/routes/bubble-menu.svelte": {
-    "file": "pages/bubble-menu.svelte-646b2606.js",
+    "file": "pages/bubble-menu.svelte-ec06c060.js",
     "src": "src/routes/bubble-menu.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor-86f7ddee.js",
-      "_EditorContent-c25cb646.js"
+      "_vendor-bd1cd56f.js",
+      "_EditorContent-675ab527.js"
     ]
   },
-  "_vendor-86f7ddee.js": {
-    "file": "chunks/vendor-86f7ddee.js"
+  "_vendor-bd1cd56f.js": {
+    "file": "chunks/vendor-bd1cd56f.js"
   },
   "_paths-396f020f.js": {
     "file": "chunks/paths-396f020f.js"
   },
-  "_EditorContent-c25cb646.js": {
-    "file": "chunks/EditorContent-c25cb646.js",
+  "_EditorContent-675ab527.js": {
+    "file": "chunks/EditorContent-675ab527.js",
     "imports": [
-      "_vendor-86f7ddee.js"
+      "_vendor-bd1cd56f.js"
     ]
   }
 }
