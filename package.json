@@ -1,8 +1,8 @@
 {
-  "name": "svelte-tiptap",
+  "name": "@Seo-Rii/svelte-tiptap",
   "description": "Svelte components for tiptap v2",
   "version": "0.4.7",
-  "author": "sibiraj-s",
+  "author": "Seo-Rii",
   "license": "MIT",
   "repository": "https://github.com/sibiraj-s/svelte-tiptap.git",
   "bugs": "https://github.com/sibiraj-s/svelte-tiptap/issues",
